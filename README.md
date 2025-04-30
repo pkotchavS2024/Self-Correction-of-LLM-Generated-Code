@@ -1,5 +1,7 @@
 # dsse-group-project
 
+The presentation given as a result of this work can be found at this [link](https://docs.google.com/presentation/d/1i-UF9_FQ5fxNRxpZ0oyPtX31ZpiQtuWy8v9cL_Nfh-Q/edit?usp=sharing)
+
 ## GCP VM Instance Information
 
 - Account: `galacticrelic@gmail.com`
